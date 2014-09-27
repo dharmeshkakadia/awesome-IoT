@@ -14,3 +14,9 @@ A curated list of awesome Internet of Things(IoT) platforms, libraries and apps.
 1. [Arduino](http://www.arduino.cc/)
 2. [Eclipse-IoT](http://iot.eclipse.org/)
 3. [Beagleboard](http://beagleboard.org/)
+
+#Standards
+1. [Thread Group](http://www.threadgroup.org/)
+2. [AllSeen Alliance](https://allseenalliance.org/) and [AllJoyn](https://www.alljoyn.org/)
+3. [Industrial Internet Consortium](http://www.industrialinternetconsortium.org/)
+4. [Open Interconnect Consortium](Industrial Internet Consortium)
